@@ -1,2 +1,6 @@
 # Names
 Task_2
+
+1.npm install
+2.node server.js
+3.http://localhost:8080/
